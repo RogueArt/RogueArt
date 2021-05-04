@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @RogueArt
-- 👀 I’m interested in creating high performance web backends
-- 🌱 I’m currently learning front end web development as well as Rust
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me:
-
-Discord: RogueArt#4790
+- 🕸️ I work mostly on web backends, with a specialty in Discord bots and web scraping
+- 🗺️ I'm currently exploring using Rust in creating high performance, low footprint web and desktop apps
+- 💞️ I’m looking to collaborate on making full stack applications
+- 📫 How to reach me: Add me on Discord - RogueArt#4790
 
 <!---
 RogueArt/RogueArt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
