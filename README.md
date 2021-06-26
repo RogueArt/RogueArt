@@ -35,9 +35,21 @@ I'm a full-stack web developer and designer who's currently exploring deep learn
 </tbody>
 </table>
 
-Contact me here:
-- ✉️ <a href="mailto:rogueart.dev@outlook.com">Email</a> - rogueart.dev@outlook.com
-- <img title="HTML5" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" width="20px" height="20px"></img> Discord - RogueArt#4790
+### Contact me here:
+<table>
+  <thead>
+    <tr>
+      <th>✉️ Email</th>
+      <td><a href="mailto:rogueart.dev@outlook.com">rogueart.dev@outlook.com</a></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th><img align="top" title="HTML5" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" width="30px" height="30px"> Discord</img></th>
+      <td>RogueArt#4790</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
@@ -45,7 +57,13 @@ Contact me here:
 ## 📈 Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=RogueArt" />
-</p> -->
+</p>
+
+
+## Contact me here:
+- ✉️ Email</a> - rogueart.dev@outlook.com
+- <img title="HTML5" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" width="20px" height="20px"></img> Discord - RogueArt#4790
+-->
 
 
 <!-- ## 💻 Tech Stack
