@@ -3,8 +3,8 @@
 I'm a full-stack web developer and designer who's currently exploring deep learning with OpenCV and Tensorflow.
 
 Contact me here:
-- ✉️ rogueart.dev@outlook.com
-- <img title="HTML5" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" width="20px" height="20px"></img> Discord - RogueArt #4790
+- ✉️ <a href="mailto:rogueart.dev@outlook.com">Email</a> - rogueart.dev@outlook.com
+- <img title="HTML5" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" width="20px" height="20px"></img> Discord - RogueArt#4790
 
 ## 💻 Tech Stack
 | Frontend  | Backend | Languages |
