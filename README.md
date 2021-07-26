@@ -1,6 +1,6 @@
 # 👋 Hi, I’m RogueArt
 
-I'm a full-stack web developer and designer who's currently exploring deep learning with OpenCV and Tensorflow.
+I'm a full-stack web developer and designer who's currently working on clean desktop apps with React and Tauri. 
 
 <table>
   <thead>
