@@ -1,6 +1,6 @@
 # 👋 Hi, I’m RogueArt
 
-I'm a full-stack web developer and designer who's currently developing clean desktop apps using React and Tauri. 
+I'm a full-stack web developer and designer who's currently working at Amazon Web Services (AWS) as a Software Development Intern.
 
 <table>
   <thead>
