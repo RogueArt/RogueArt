@@ -1,6 +1,6 @@
 # 👋 Hi, I’m RogueArt
 
-I'm a full-stack web developer and designer who's currently working at Amazon Web Services (AWS) as a Software Development Intern.
+I'm a full-stack web developer and designer currently working at Facebook as a Software Engineering Intern.
 
 <table>
   <thead>
