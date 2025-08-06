@@ -82,7 +82,7 @@ I’m always looking to share what I learn—whether it’s writing guides, cont
 
 ## 📬 **Contact**
 
-- **Email:** [rogueart.dev@outlook.com](mailto:rogueart.dev@outlook.com)
+- **Email:** [hi@rogueart.dev](mailto:hi@rogueart.dev)
 - **Discord:** @rogueart
 
 > *See you, space cowboy…*
