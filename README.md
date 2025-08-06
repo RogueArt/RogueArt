@@ -83,6 +83,6 @@ I’m always looking to share what I learn—whether it’s writing guides, cont
 ## 📬 **Contact**
 
 - **Email:** [rogueart.dev@outlook.com](mailto:rogueart.dev@outlook.com)
-- **Discord:** RogueArt#4790
+- **Discord:** @rogueart
 
 > *See you, space cowboy…*
